@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+    justify-content:left;
+    display:flex;
+    margin: 10px;
+    padding: auto;
+}
+
+a{
+    padding: 45px;
+    margin-right: 35px;
+    border-radius: 15px;
+    border-color: white;
+    background-color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: dotted;
+    color:#71C5E8;
+}
+
+.first{
+    margin:50px;
+    padding: 112px;
+    background-color: #71C5E8;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+.c{
+    text-align: center;
+}
+.e{
+    text-align: center;
+}
